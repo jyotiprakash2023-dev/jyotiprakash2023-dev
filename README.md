@@ -6,7 +6,7 @@ Email me 👉✉️ jyotiprakash2023@gift.edu.in For Collaboration/Project or An
 
 
 ## 🌐 Socials:
-<gif align="right" alt="cooding" width="300" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/de1c5f6f-3567-4356-a163-8599fb501a40" />
+<gif align="left" alt="cooding" width="100" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/de1c5f6f-3567-4356-a163-8599fb501a40" />
 "
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https_._jyoti_legacy_._07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotiprakash-malik-b63085294) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Prakashjyoti_Official) 
 
