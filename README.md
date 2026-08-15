@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Jyoti Prakash
 🔭 Building cool projects with code<br>🤝 Open to collaborating on interesting projects<br>🌱 Currently learning & experimenting with new technologies<br>💬 Ask me about my projects, tech, or anything I’m building<br>⚡ Fun fact: I love turning ideas into working projects
 
 
