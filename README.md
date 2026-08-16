@@ -2,7 +2,7 @@
   <img src="github profile banner.jpeg" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm CHINMAYA MOHANTY</h1>
+<h1 align="center">Hi 👋, I'm Jyotiprakash Malik</h1>
 <h3 align="center">🚀 Aspiring AI Engineer | Building Real AI Systems</h3>
 
 <p align="center">
@@ -21,18 +21,18 @@
 ### 🧠 About Me
 - 🌱 i'm currently Learning **Agentic AI**
 - 💬 Ask me about **Machine Learning & Deep Learning**
-- 📫 How to reach me **mohantychinmaya199@gmail.com**
+- 📫 How to reach me **jyotiprakash2023@gift.edu.in**
 - ⚡ Fun fact Sleep is optional ☕
 
 ---
 
 ### 🌐 Connect
 <p>
-<a href="https://linkedin.com/in/chinmayamohanty">
+<a href="https://www.linkedin.com/in/jyotiprakash-malik-b63085294">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 
-<a href="mailto:mohantychinmaya199@gmail.com">
+<a href="mailto:jyotiprakash2023@gift.edu.in">
 <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 </p>
