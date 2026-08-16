@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/banner.jpeg?raw=true" width="100%" />
+  <img src="github profile banner.jpeg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm CHINMAYA MOHANTY</h1>
