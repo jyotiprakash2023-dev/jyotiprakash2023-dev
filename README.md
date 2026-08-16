@@ -48,7 +48,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://github.com/jyotiprakash2023-dev/jyotiprakash2023-dev/blob/6eef1cd35f08200e66ec58918a0c954f8574dcaf/gif.mp4" width="300"/>
+<img src="https://github.com/jyotiprakash2023-dev/jyotiprakash2023-dev/blob/main/git%20gif%20start.gif?raw=true" width="300"/>
 
 </td>
 
