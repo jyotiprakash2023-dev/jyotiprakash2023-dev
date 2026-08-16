@@ -34,6 +34,12 @@
 
 <a href="mailto:jyotiprakash2023@gift.edu.in">
 <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+
+<a href="https://www.instagram.com/https_._jyoti_legacy_._07?igsh=MWo4b29zZnhsNmJzcQ==">
+<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+
+<a href="https://www.youtube.com/@Prakashjyoti_Official">
+<img src="https://skillicons.dev/icons?i=youtube" height="35"/>
 </a>
 </p>
 
