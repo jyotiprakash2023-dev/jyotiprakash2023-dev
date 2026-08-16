@@ -1,15 +1,61 @@
-# 💫 Hi 👋 I'm Jyoti Prakash
-# A Passionate AI/ML Devloper || Frontend/Backend Devloper
-Email me 👉✉️ jyotiprakash2023@gift.edu.in For Collaboration/Project or Anything Else.😊🤗
+<p align="center">
+  <img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/banner.jpeg?raw=true" width="100%" />
+</p>
 
-🔭 Building cool projects with code<br>🤝 Open to collaborating on interesting projects<br>🌱 Currently learning & experimenting with new technologies<br>💬 Ask me about my projects, tech, or anything I’m building<br>⚡ Fun fact: I love turning ideas into working projects
+<h1 align="center">Hi 👋, I'm CHINMAYA MOHANTY</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | Building Real AI Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress...;Designing+systems+that+learn,+adapt,+and+decide.;Training+models.+Solving+problems.+Shipping+intelligence." />
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https_._jyoti_legacy_._07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jyotiprakash-malik-b63085294) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Prakashjyoti_Official) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+---
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🧠 About Me
+- 🌱 i'm currently Learning **Agentic AI**
+- 💬 Ask me about **Machine Learning & Deep Learning**
+- 📫 How to reach me **mohantychinmaya199@gmail.com**
+- ⚡ Fun fact Sleep is optional ☕
+
+---
+
+### 🌐 Connect
+<p>
+<a href="https://linkedin.com/in/chinmayamohanty">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="mailto:mohantychinmaya199@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+</a>
+</p>
+
+---
+
+### ⚙️ Tech Stack
+<p style="white-space: nowrap; overflow-x: auto;">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,django,react,js,html,css,mysql,sqlite,git" />
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 <!-- Snake Game Repo View -->
