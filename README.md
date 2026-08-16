@@ -48,7 +48,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://www.linkedin.com/in/jyotiprakash-malik-b63085294" width="300"/>
+<img src="git gif.mp4" width="300"/>
 
 </td>
 
