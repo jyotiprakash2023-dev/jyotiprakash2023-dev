@@ -73,9 +73,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jyotiprakash2023-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jyotiprakash2023-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jyotiprakash2023-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jyotiprakash2023-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=jyotiprakash2023-dev&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jyotiprakash2023-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jyotiprakash2023-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
