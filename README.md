@@ -41,7 +41,7 @@
 </a>
 
 <a href="YOUR_YOUTUBE_LINK">
-<img src="https://skillicons.dev/icons?i=youtube" height="35"/>
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="35"/>
 </a>
 </p>
 
