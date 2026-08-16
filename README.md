@@ -61,7 +61,7 @@
 </tr>
 </table>
 
----
+
 
 ---
 <!-- Snake Game Repo View -->
