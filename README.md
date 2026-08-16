@@ -48,7 +48,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" width="300"/>
+<img src="https://www.linkedin.com/in/jyotiprakash-malik-b63085294" width="300"/>
 
 </td>
 
