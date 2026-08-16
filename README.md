@@ -36,11 +36,11 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/https_._jyoti_legacy_._07?igsh=MWo4b29zZnhsNmJzcQ==">
 <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
 </a>
 
-<a href="YOUR_YOUTUBE_LINK">
+<a href="https://www.youtube.com/@Prakashjyoti_Official">
 <img src="https://cdn.simpleicons.org/youtube/FF0000" height="35"/>
 </a>
 </p>
